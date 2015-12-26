@@ -112,7 +112,7 @@ $(document).ready(function() {
 	
 	/* Init Slidesow background */
 	 $('.slide-show').vegas({
-        delay: 5000,
+        delay: 3000,
         shuffle: true,
         slides: imageSlides,
     	//transition: [ 'zoomOut', 'burn' ],
